@@ -1,4 +1,4 @@
-# Georgia-Tech-Car-Rental-Project
+# Georgia Tech Car Rental Project
 # Team project by Georgia Tech students
 http://www.sahilgupta.info/georgia-tech-car-rental.html
 
